@@ -1,0 +1,8 @@
+opt_set SPINDLE_LASER_ENA_PIN P2_05
+opt_set SPINDLE_LASER_DIR_PIN P2_05
+opt_set SPINDLE_LASER_PWM_PIN P2_05
+
+
+# Write some useful tidbits to the readme.
+echo "- Configured for Heated Bed to PWM override" >> README.md
+
