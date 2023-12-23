@@ -14,6 +14,5 @@ $CFGDIR/accessories/dummy-extruder
 $CFGDIR/accessories/tmc2209
 $CFGDIR/accessories/reprap_discount_full_graphic_lcd
 $CFGDIR/accessories/no-dual-endstops
-$CFGDIR/accessories/heatedbed_to_pwm
 
 export PLATFORMIO_ENV=LPC1769
